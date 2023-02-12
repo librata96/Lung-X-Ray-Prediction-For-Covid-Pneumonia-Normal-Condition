@@ -1,6 +1,6 @@
 # Lung X Ray Prediction for Covid / Pneumonia or Normal Condition
 
-This Project goals it to predict whether someone has COVID-19 or pneumonia using Convolutinal Neural Network
+This Project goals it to predict whether someone has COVID-19 or pneumonia using Convolutional Neural Network
 After that, deploy the deep learning model using Streamlit and Hugging Face platform For online usage.
 
 ## Tools
